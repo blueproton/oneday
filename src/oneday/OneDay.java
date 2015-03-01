@@ -31,7 +31,7 @@ import javafx.stage.Stage;
 public class OneDay extends Application {
     
         
-    private final static String PATH_TO_SPLASH_SCREEN="file:///C:\\Users\\tim\\Desktop\\images\\header.jpg";
+    private final static String PATH_TO_SPLASH_SCREEN="file:///C:\\Users\\t\\Desktop\\images\\header.jpg";
     private final static String PATH_TO_SOUND="file:///C:\\Users\\tim\\Desktop\\images\\Pigs.mp3";
     private final static int HSIZE = 500;
     private final static int VSIZE = 400;
